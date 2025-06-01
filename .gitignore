@@ -1,0 +1,11 @@
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.wav
+*.zip
+.DS_Store
+.vscode/
+.idea/
+.streamlit/secrets.toml
